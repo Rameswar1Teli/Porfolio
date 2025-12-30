@@ -229,7 +229,7 @@ footer {
     font-size: 2.2rem;
   }
   @media (max-width: 768px) {
-  .profile-pic {
+  .header-img {
     width: 200px;
     height: 200px;
     margin-top: 2rem;
@@ -237,4 +237,5 @@ footer {
 }
 
 }
+
 
